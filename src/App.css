@@ -1,1 +1,41 @@
-/* Other rules */
+.body {
+  height: 2000px;
+  padding-top: 100px;
+ 
+}
+.programme {
+  display: flex;
+  padding-top: 50px;
+  margin-left: 300px;
+  border-bottom: 1px solid rgb(192, 187, 187);
+  width: 600px;
+  margin: 0 auto;
+}
+.title {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.time {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-right: 30px;
+  font-weight: bold;
+}
+.type {
+  color: gray;
+  margin-bottom: 15px;
+}
+img {
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+.styleColor {
+  width: 300px;
+}
+.duration {
+  font-weight: bold;
+}
+.logo{
+   margin-left: 1280px;
+}
